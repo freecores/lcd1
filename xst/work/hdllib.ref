@@ -1,0 +1,8 @@
+AR generic_freq_div behavioral /export/jack/dimo/vhdl/lcd/src/generic_freq_div.vhd sub00/vhpl03 1213627952
+AR lcd1 behavioral /export/jack/dimo/vhdl/lcd/src/lcd1.vhd sub00/vhpl05 1213627954
+EN topentity NULL /export/jack/dimo/vhdl/lcd/src/topEntity.vhd sub00/vhpl06 1213627955
+PH asci_types NULL /export/jack/dimo/vhdl/lcd/src/asci_types.vhd sub00/vhpl00 1213627949
+EN generic_freq_div NULL /export/jack/dimo/vhdl/lcd/src/generic_freq_div.vhd sub00/vhpl02 1213627951
+PH components NULL /export/jack/dimo/vhdl/lcd/src/components.vhd sub00/vhpl01 1213627950
+EN lcd1 NULL /export/jack/dimo/vhdl/lcd/src/lcd1.vhd sub00/vhpl04 1213627953
+AR topentity structural /export/jack/dimo/vhdl/lcd/src/topEntity.vhd sub00/vhpl07 1213627956
